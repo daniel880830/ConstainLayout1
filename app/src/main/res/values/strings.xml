@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConstrainLayout</string>
+    <string name="helloworld">hello world!</string>
+    <string name="bigger">bigger</string>
+</resources>
